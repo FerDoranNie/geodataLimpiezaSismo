@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ubicación de áreas críticas CHIAPAS- Sismo 07/09/2017</name>
+    <description/>
+    <Style id="icon-1602-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1639-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1639-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1639-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1639-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1639-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1639-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1639-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1639-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1639-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1639-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Por Confirmar</name>
+    </Folder>
+    <Folder>
+      <name>Solicitud de Ayuda Urgentes</name>
+    </Folder>
+    <Folder>
+      <name>Edificios Dañados</name>
+      <Placemark>
+        <name>Museo de la Ciudad</name>
+        <description><![CDATA[Describir daños<br>morado: valor arquitectónico]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -93.11773,16.7540026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Ámbar</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/_aGMXLu9S0SthhzEZYM_DTGTOklfuxVJ_vUkco9_T8_LrJdDvUp_8UsW668TSOhyWGTs-aFhB37NyRpqLvPfKjyvmuWUGqc4ErPGupu90Cb7sDGk5G8amE2VjXEWCEsdaQ" height="200" width="auto" /><br><br>Fuente: twitter]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/_aGMXLu9S0SthhzEZYM_DTGTOklfuxVJ_vUkco9_T8_LrJdDvUp_8UsW668TSOhyWGTs-aFhB37NyRpqLvPfKjyvmuWUGqc4ErPGupu90Cb7sDGk5G8amE2VjXEWCEsdaQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -93.0750024,16.7461176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antena Caída Bienestar Social</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/HZVm6fxkrF9MdXbQMJveFPjubj5p2haJeIuELCjmk678jI7O7cEKwUAcqA1BV0ETEThd_G6rI7nA7CvtXxBBlB1BZBLGntCEa91apJhvdVyduY7fnLqeirJ7hpXtDXtW" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/HZVm6fxkrF9MdXbQMJveFPjubj5p2haJeIuELCjmk678jI7O7cEKwUAcqA1BV0ETEThd_G6rI7nA7CvtXxBBlB1BZBLGntCEa91apJhvdVyduY7fnLqeirJ7hpXtDXtW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -93.0975598,16.7450311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacio Municipal (Museo de San Cristóbal) </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/HVW2P4xHtrCEP1uaC9kPXof_2w4FQ0OUcSNKXWC34CAYfjK0aBAYplOfePqmkehPQ5q6cAbysiejf6wNej9yb_dMjKlJNe05_dr18j-JvM9q7Abw_-tqGmM7RqrNLQCh" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/HVW2P4xHtrCEP1uaC9kPXof_2w4FQ0OUcSNKXWC34CAYfjK0aBAYplOfePqmkehPQ5q6cAbysiejf6wNej9yb_dMjKlJNe05_dr18j-JvM9q7Abw_-tqGmM7RqrNLQCh</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.6382342,16.7369917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de Santa Lucía</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/DxD7EDA0rwMHn9yvbCOiAF_V3Ig7YjCOUQMAM2TjlEDfBOgpe7tvXWynky-nzsxRgjYqpWMDkYf8GBGrOX4UvWzD6d7BzTVyiq5UoiOcRMzYBg97KNhcJjA42FcuD-MQiA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/DxD7EDA0rwMHn9yvbCOiAF_V3Ig7YjCOUQMAM2TjlEDfBOgpe7tvXWynky-nzsxRgjYqpWMDkYf8GBGrOX4UvWzD6d7BzTVyiq5UoiOcRMzYBg97KNhcJjA42FcuD-MQiA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.6365632,16.7321447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Edificios Derrumbados</name>
+    </Folder>
+    <Folder>
+      <name>Centros de Acopio</name>
+      <Placemark>
+        <name>DIF Tuxtla Gutiérrez</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0799162,16.7554306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Pichucalco</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.114935,17.5132455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Tonalá</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7521602,16.0910701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Regional Tapachula</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2944778,14.8957531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Motozintla</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.248158,15.364821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Palenque</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9977667,17.5014945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CADI Ocosingo</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.0885388,16.9097364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Yajalón</name>
+        <styleUrl>#icon-1639-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.331674,17.1722809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Delegación VII Bosques</name>
+        <description>CALLE 5A PONIENTE SUR #25, BARRIO MORELOS, BOCHIL      apoyoporsismo@difchiapas.gob.mx</description>
+        <styleUrl>#icon-1639-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -92.8958014,16.995769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estadio Zoque</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/VOrpSlf36uTQ9cYv5i0_hfYY1WGL5xInsQHNJ8cuei6ex9_KSNARKJfK_SSY8-D08YkaS50-dekZ0AiY_dsY_-mgp8KApGoaeLr7_bGpNWEA4wv80u02aTAM79f6rYQ" height="200" width="auto" /><br><br>Fuente de datos: twitter (16:22pm)]]></description>
+        <styleUrl>#icon-1639-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/VOrpSlf36uTQ9cYv5i0_hfYY1WGL5xInsQHNJ8cuei6ex9_KSNARKJfK_SSY8-D08YkaS50-dekZ0AiY_dsY_-mgp8KApGoaeLr7_bGpNWEA4wv80u02aTAM79f6rYQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -93.0963421,16.7626732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Albergues</name>
+      <Placemark>
+        <name>CEDECO Bienestar Social</name>
+        <description>29077, Av Miguel Hidalgo 716, Bienestar Soc, Tuxtla Gutiérrez, Chis.</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0960846,16.7461073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auditorio Municipal Jiquipilas</name>
+        <description>Calle Central y Avenida Central S/N, Jiquipilas, Chiapas, Centro C.P. 30430 Jiquipilas, Chiapas.</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.6503819,16.668298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Deportiva Arriaga</name>
+        <description>Calle Universitario, Arriaga, Chis. CP. 30450</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.9168406,16.228721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Preparatoria Juan Sabines Gutiérrez</name>
+        <description>Carretera Tonala-Paredon Kilometro 11.5. Tonalá, Chiapas.</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.8553214,16.056887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Salon De Usos Múltiples "Joaquín miguel Gutierrez"]]></name>
+        <description><![CDATA[Salon De Usos Múltiples "Joaquín miguel Gutierrez"]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7593409,16.0948072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Primaria Abelardo de la Torre Grajales</name>
+        <description>Colonia América Libre, Chiapa de Corzo, Chiapas</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -92.99306,16.6133299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Centros de Ayuda</name>
+    </Folder>
+    <Folder>
+      <name>Municipios que Solicitan Apoyo</name>
+    </Folder>
+    <Folder>
+      <name>Caminos / Carreteras dañadas</name>
+      <Placemark>
+        <name>Hundimiendo carretera Tuxtla - Copoya</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/rshs8diPp1WLlN0yXv0vR-B1A33PKIK2L73MMsTCKOzktLv3Vfe1XcwYfj08FTz5GwPWcyo7Y-FOZ8gjm5cfQEWk-VwZPksIyiLPrrqyATtld7mTtDBmHvnR1aNKlfU" height="200" width="auto" /><br><br>Siguen las obras <br>Punto exacto por confirmar. ]]></description>
+        <styleUrl>#icon-1898-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/rshs8diPp1WLlN0yXv0vR-B1A33PKIK2L73MMsTCKOzktLv3Vfe1XcwYfj08FTz5GwPWcyo7Y-FOZ8gjm5cfQEWk-VwZPksIyiLPrrqyATtld7mTtDBmHvnR1aNKlfU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -93.1116199,16.7188232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

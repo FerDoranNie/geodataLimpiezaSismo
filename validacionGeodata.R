@@ -177,4 +177,38 @@ manosGeneral %>%
 
 
 
+chiapas <- list.files("chiapas/areasCriticas/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/",
+                       all.files = T, full.names = T, pattern = "*.csv",
+                      recursive = T)
+
+
+lapply(chiapas, function(file){
+  x <- read.csv(file, stringsAsFactors = F)
+  # archivo <- (gsub(".*//","", file)
+  archivo <- gsub(".csv","", file, fixed=T)
+  archivo <- paste0(archivo,  "_Verificado", ".csv")
+  x <- x %>%
+    filter(X!="" | !is.na(X)) %>%
+    data.table %>%
+    .[, coordenadas := paste(X, Y, sep=", ")]
+  
+  xLocalidad <- mapply("Localidad", longitud= x$X,
+                       latitud = x$Y,
+                       SIMPLIFY = F)
+  xLocalidad2 <- do.call("rbind", xLocalidad)
+  
+  xLocalidad2 <- xLocalidad2 %>%
+    data.table %>%
+    .[, coordenadas := paste(long_Verificado, lat_Verificado, sep=", ")]
+  
+  
+  xGeneral <- merge(data.frame(x),
+                    data.frame(xLocalidad2), by="coordenadas")
+  xGeneral %>%
+    write.csv(archivo, row.names=F)
+  print(file)
+})
+
+
+
 

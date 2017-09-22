@@ -1,0 +1,245 @@
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 4: Failed to create /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Caminos / Carreteras dañadas.csv:
+No such file or directory
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Solicitud de Ayuda Urgentes, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Solicitud de Ayuda Urgentes.csv already exists.
+ERROR 1: Attempt to create layer Edificios Dañados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Edificios Dañados.csv already exists.
+ERROR 1: Attempt to create layer Edificios Derrumbados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Edificios Derrumbados.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Albergues.csv already exists.
+ERROR 1: Attempt to create layer Centros de Ayuda, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Centros de Ayuda.csv already exists.
+ERROR 1: Attempt to create layer Municipios que Solicitan Apoyo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Municipios que Solicitan Apoyo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 4: Failed to create /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Caminos / Carreteras dañadas.csv:
+No such file or directory
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Solicitud de Ayuda Urgentes, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Solicitud de Ayuda Urgentes.csv already exists.
+ERROR 1: Attempt to create layer Edificios Dañados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Edificios Dañados.csv already exists.
+ERROR 1: Attempt to create layer Edificios Derrumbados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Edificios Derrumbados.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Albergues.csv already exists.
+ERROR 1: Attempt to create layer Centros de Ayuda, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Centros de Ayuda.csv already exists.
+ERROR 1: Attempt to create layer Municipios que Solicitan Apoyo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Municipios que Solicitan Apoyo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 4: Failed to create /opt/django/mg2/mg2/media/files/userdata2/unknown-users/caa836c1-72a6-414c-ae4f-9098f6fd4383/2017-09-23_00-02-58/out/Ubicacion-de-areas-criticas-CHIAPAS-Sismo-07092017/Caminos / Carreteras dañadas.csv:
+No such file or directory
