@@ -26,6 +26,13 @@ Localidad <- function(longitud, latitud){
   if(is.na(longitud) | is.na(latitud)){
     return(NULL)
   }
+  x <- tryCatch(
+     revgeocode(c(longitud, latitud), output = "more"),
+     error = function(e){return(NULL)}
+   )
+  if(is.null(x)){
+    return(NULL)
+  }
   x <- revgeocode(c(longitud, latitud), output = "more")
   direccion <- as.character(x$address)
   calle <- as.character(x$route)
