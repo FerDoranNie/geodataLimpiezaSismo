@@ -1,0 +1,12 @@
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.

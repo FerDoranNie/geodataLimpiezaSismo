@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Central Mexico Earthquake Shelters</name>
+	<Style id="icon-1603-E65100-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1603-E65100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1603-E65100-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1603-E65100-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1603-E65100-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Central Mexico Earthquake Shelters</name>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Lago Erne<br>Ciudad, Estado: Miguel Hidalgo<br>Nombre: Deportivo José María Morelos y Pavon<br>Teléfono: 5553996461<br>Información Adicional: Lago Erne sn, Col. Reforma Pensil, Miguel Hidalgo, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Lago Erne</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Miguel Hidalgo</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo José María Morelos y Pavon</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5553996461</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Lago Erne sn, Col. Reforma Pensil, Miguel Hidalgo, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1933737,19.4489988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: FC Cuernavaca<br>Ciudad, Estado: Miguel Hidalgo<br>Nombre: Deportivo Plan Sexenal<br>Teléfono: 5553418817<br>Información Adicional: Ferrocarril de Cuernavaca sn, Miguel Hidalgo, CDMX<br>URL: www.miguelhidalgo.gob.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>FC Cuernavaca</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Miguel Hidalgo</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo Plan Sexenal</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5553418817</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Ferrocarril de Cuernavaca sn, Miguel Hidalgo, CDMX</value>
+				</Data>
+				<Data name="URL">
+					<value>www.miguelhidalgo.gob.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1729651,19.4542315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Escuadrón 201<br>Ciudad, Estado: Álvaro Obregón<br>Nombre: Gimnasio G3<br>Teléfono: <br>Información Adicional: <br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Escuadrón 201</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Álvaro Obregón</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Gimnasio G3</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19942380000001,19.3879044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Sinaloa Nte.<br>Ciudad, Estado: CDMX<br>Nombre: Gimnasio de Villa Milpa Alta<br>Teléfono: +52 55 5844 1920<br>Información Adicional: <br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sinaloa Nte.</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Gimnasio de Villa Milpa Alta</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5844 1920</value>
+				</Data>
+				<Data name="Información Adicional">
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.02665320000001,19.2000098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Sur 3493<br>Ciudad, Estado: CDMX<br>Nombre: Villa Olimpica<br>Teléfono: +52 55 5424 0809<br>Información Adicional: <br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sur 3493</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Villa Olimpica</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5424 0809</value>
+				</Data>
+				<Data name="Información Adicional">
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1871757,19.2968874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Castorena 545<br>Ciudad, Estado: CDMX<br>Nombre: Deportivo Morelos<br>Teléfono: <br>Información Adicional: <br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Castorena 545</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo Morelos</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2855667,19.3639264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Calz. del Hueso<br>Ciudad, Estado: Tlalpan, CDMX<br>Nombre: Centro Social y Deportivo Rosario Iglesias Rocha<br>Teléfono: <br>Información Adicional: Calz. del Hueso #400, Col. Los Girasoles, Del. Tlalpan<br>URL: www.deporte.df.gob.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Calz. del Hueso</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Tlalpan, CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Centro Social y Deportivo Rosario Iglesias Rocha</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calz. del Hueso #400, Col. Los Girasoles, Del. Tlalpan</value>
+				</Data>
+				<Data name="URL">
+					<value>www.deporte.df.gob.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1211187,19.3032979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Sur 20<br>Ciudad, Estado: CDMX<br>Nombre: CIAM<br>Teléfono: <br>Información Adicional: sur 20 esquina 229 Agrícola Oriental, 08500 Ciudad de México<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sur 20</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>CIAM</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>sur 20 esquina 229 Agrícola Oriental, 08500 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0818493,19.3935445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue SEDESO</name>
+			<description><![CDATA[Dirección: Av. del Rosario<br>Ciudad, Estado: Azcapotzalco<br>Nombre: CAIS Azcapotzalco<br>Teléfono: <br>Información Adicional: Col. San Martín Xochinahuac, Del. Azcapotzalco, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Av. del Rosario</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Azcapotzalco</value>
+				</Data>
+				<Data name="Nombre">
+					<value>CAIS Azcapotzalco</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Col. San Martín Xochinahuac, Del. Azcapotzalco, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19285000000001,19.49844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Cólica 16<br>Ciudad, Estado: CDMX<br>Nombre: Centro Social<br>Teléfono: +52 55 5649 3660<br>Información Adicional: Cólica 16, Fraccionamiento Coyuya, Ciudad de México, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Cólica 16</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Centro Social</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5649 3660</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Cólica 16, Fraccionamiento Coyuya, Ciudad de México, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.11682099999999,19.401274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Sindicalismo 3<br>Ciudad, Estado: CDMX<br>Nombre: Junior Club<br>Teléfono: +52 55 5277 7666<br>Información Adicional: Sindicalismo 3, Col. Hipódromo Condesa, 06170 Ciudad de México<br>URL: www.juniorclub.com.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sindicalismo 3</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Junior Club</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5277 7666</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Sindicalismo 3, Col. Hipódromo Condesa, 06170 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+					<value>www.juniorclub.com.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1721589,19.4053202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Peña S/N<br>Ciudad, Estado: CDMX<br>Nombre: Plaza del Estudiante<br>Teléfono: <br>Información Adicional: Peña S/N, Cuauhtemoc, centro historico-alameda, Centro, 06020 Ciudad de México<br>URL: www.mexicocity.gob.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Peña S/N</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Plaza del Estudiante</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Peña S/N, Cuauhtemoc, centro historico-alameda, Centro, 06020 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+					<value>www.mexicocity.gob.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1284223,19.4406296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Calle Mina 134<br>Ciudad, Estado: CDMX<br>Nombre: Oficinas Administrativas del deportivo Mina<br>Teléfono: +52 55 4335 8203<br>Información Adicional: Calle Mina 134, Centro Histórico, Guerrero, 06300 Cuauhtémoc<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Calle Mina 134</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Oficinas Administrativas del deportivo Mina</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 4335 8203</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Mina 134, Centro Histórico, Guerrero, 06300 Cuauhtémoc</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.14808610000001,19.4397608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Luis D.Colosio<br>Ciudad, Estado: CDMX<br>Nombre: Deportivo Cuauhtemoc<br>Teléfono: +52 55 2452 3326<br>Información Adicional: Luis Donaldo Colosio esq. Aldama, Buenavista, 06350 Ciudad de México<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Luis D.Colosio</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo Cuauhtemoc</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 2452 3326</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Luis Donaldo Colosio esq. Aldama, Buenavista, 06350 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1514075,19.4424244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue SEDESO</name>
+			<description><![CDATA[Dirección: Sur 65-A #3246<br>Ciudad, Estado: Iztacalco, CDMX<br>Nombre: Cais Coruña Jóvenes<br>Teléfono: 5555196650<br>Información Adicional: Col. Viaducto Piedad, entre Coruña y Santa Anita, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sur 65-A #3246</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Iztacalco, CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Cais Coruña Jóvenes</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5555196650</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Col. Viaducto Piedad, entre Coruña y Santa Anita, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1317148,19.3990368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Fresno 301<br>Ciudad, Estado: CDMX<br>Nombre: Martires de Tlatelolco Popular high A.C.<br>Teléfono: +52 55 5547 1168<br>Información Adicional: Calle Fresno 301, Cuauhtémoc, Atlampa, 06450 Ciudad de México<br>URL: prepafresno.com]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Fresno 301</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Martires de Tlatelolco Popular high A.C.</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5547 1168</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Fresno 301, Cuauhtémoc, Atlampa, 06450 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+					<value>prepafresno.com</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15958300000001,19.4553387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Eje 5 Nte.<br>Ciudad, Estado: CDMX<br>Nombre: Casa Del Peregrino San Juan Diego<br>Teléfono: <br>Información Adicional: Eje 5 Nte Calz San Juan de ARAGON 63, Villa Gustavo A. Madero, 07050 Ciudad de México<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Eje 5 Nte.</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Casa Del Peregrino San Juan Diego</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Eje 5 Nte Calz San Juan de ARAGON 63, Villa Gustavo A. Madero, 07050 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.11009919999998,19.4832959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue SEDESO</name>
+			<description><![CDATA[Dirección: Maza de Juárez<br>Ciudad, Estado: CDMX<br>Nombre: Centro de Asistencia e Integración Social Villa Mujeres<br>Teléfono: 5553921837<br>Información Adicional: Av. Maza de Juález 150 Bis, Col. Patera Vallejo, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Maza de Juárez</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Centro de Asistencia e Integración Social Villa Mujeres</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5553921837</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av. Maza de Juález 150 Bis, Col. Patera Vallejo, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15487520000001,19.5070796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Castilla Oriente<br>Ciudad, Estado: CDMX<br>Nombre: Delegación Azcapotzalco<br>Teléfono: +52 55 5353 8503<br>Información Adicional: Castilla Oriente s/n, Azcapotzalco, Centro, Centro de Azcapotzalco, 02008 Ciudad de México<br>URL: delegacionazcapotzalco.com.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Castilla Oriente</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Delegación Azcapotzalco</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5353 8503</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Castilla Oriente s/n, Azcapotzalco, Centro, Centro de Azcapotzalco, 02008 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+					<value>delegacionazcapotzalco.com.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1843859,19.4840941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue SEDESO</name>
+			<description><![CDATA[Dirección: Bernal Díaz<br>Ciudad, Estado: Cuauhtémoc<br>Nombre: Hogar CDMX<br>Teléfono: <br>Información Adicional: Díaz del Castillo #34, Col. Buenavista, Del. Cuauhtémoc<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Bernal Díaz</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Cuauhtémoc</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Hogar CDMX</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Díaz del Castillo #34, Col. Buenavista, Del. Cuauhtémoc</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1542455,19.4408745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: CiudadDeportiva<br>Ciudad, Estado: Iztacalco, CDMX<br>Nombre: Sala Armas Magdalena Mixhuca<br>Teléfono: +52 55 2046 4621<br>Información Adicional: Ciudad Deportiva de la Magdalena Mixhuca, puerta 6<br>URL: cdmm.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>CiudadDeportiva</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Iztacalco, CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Sala Armas Magdalena Mixhuca</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 2046 4621</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Ciudad Deportiva de la Magdalena Mixhuca, puerta 6</value>
+				</Data>
+				<Data name="URL">
+					<value>cdmm.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0921998,19.407729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Insurgentes Sur<br>Ciudad, Estado: Tlalpan, CDMX<br>Nombre: Deportivo La Joya<br>Teléfono: <br>Información Adicional: Av. Insurgentes Sur 4342-S, Del. Tlalpan, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Insurgentes Sur</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Tlalpan, CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo La Joya</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av. Insurgentes Sur 4342-S, Del. Tlalpan, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1682229,19.2794671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Insurgentes Sur<br>Ciudad, Estado: Tlalpan, CDMX<br>Nombre: Deportivo Villa Olímpica<br>Teléfono: 5556069255<br>Información Adicional: Av. Insurgentes Sur, Parque del Pedregal, Tlalpan, CDMX<br>URL: www.tlalpan.gob.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Insurgentes Sur</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Tlalpan, CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Deportivo Villa Olímpica</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5556069255</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av. Insurgentes Sur, Parque del Pedregal, Tlalpan, CDMX</value>
+				</Data>
+				<Data name="URL">
+					<value>www.tlalpan.gob.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18588219999999,19.3005292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Calle Uxmal<br>Ciudad, Estado: Benito Juárez<br>Nombre: Centro Deportivo "Benito Juárez"<br>Teléfono: +52 55 6632 4700<br>Información Adicional: Calle Uxmal 807B, Sta Cruz Atoyac, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Calle Uxmal</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Benito Juárez</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Centro Deportivo &quot;Benito Juárez&quot;</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 6632 4700</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Uxmal 807B, Sta Cruz Atoyac, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1586286,19.3715078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Delegacional</name>
+			<description><![CDATA[Dirección: Av. Parque Lira<br>Ciudad, Estado: Miguel Hidalgo<br>Nombre: Parque Lira<br>Teléfono: 5555165030<br>Información Adicional: Parque Lira 136, San Miguel Chapultepec I Secc, CDMX<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Av. Parque Lira</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Miguel Hidalgo</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Parque Lira</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>5555165030</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Parque Lira 136, San Miguel Chapultepec I Secc, CDMX</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19023110000001,19.4047827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Tonántzin 33<br>Ciudad, Estado: Miguel Hidalgo<br>Nombre: CENTRO SOCIAL Y CULTURAL GRUPO MODELO<br>Teléfono: +52 55 5276 6300<br>Información Adicional: Calle Tonantzin 33, Tlaxpana, 11320 Ciudad de México<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Tonántzin 33</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Miguel Hidalgo</value>
+				</Data>
+				<Data name="Nombre">
+					<value>CENTRO SOCIAL Y CULTURAL GRUPO MODELO</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 55 5276 6300</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Tonantzin 33, Tlaxpana, 11320 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1689678,19.443235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Margarita Maza de Juárez 150<br>Ciudad, Estado: CDMX<br>Nombre: Villa Deportiva Margarita Maza De Juarez<br>Teléfono: <br>Información Adicional: <br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Margarita Maza de Juárez 150</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>CDMX</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Villa Deportiva Margarita Maza De Juarez</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.15448670000001,19.5062908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue</name>
+			<description><![CDATA[Dirección: Periférico Sur s/n<br>Ciudad, Estado: Xochimilco<br>Nombre: Pista Olimpica de Remo y Canotaje Virgilio Uribe<br>Teléfono: <br>Información Adicional: Xochimilco, Acuemanco, Pista Olímpica Virgilio Uribe, 16000 Ciudad de México<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Periférico Sur s/n</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Xochimilco</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Pista Olimpica de Remo y Canotaje Virgilio Uribe</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Xochimilco, Acuemanco, Pista Olímpica Virgilio Uribe, 16000 Ciudad de México</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.102744,19.2904884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Sn Diego 501 VH<br>Ciudad, Estado: Cuernavaca Mor<br>Nombre: Fund. Comunitaria Morelense<br>Teléfono: <br>Información Adicional: Av. San Diego 501, Col. Vista Hermosa Cuernavaca<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sn Diego 501 VH</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Cuernavaca Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Fund. Comunitaria Morelense</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av. San Diego 501, Col. Vista Hermosa Cuernavaca</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.21641,18.94091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Calle Morelos<br>Ciudad, Estado: Zacatepec Mor<br>Nombre: Estadio Agustin Coruco Diaz<br>Teléfono: 7772702314<br>Información Adicional: Calle Morelos esquina Escuadrón 201<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Calle Morelos</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Zacatepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Estadio Agustin Coruco Diaz</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>7772702314</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Morelos esquina Escuadrón 201</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1921449,18.655145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Sufragio Efect<br>Ciudad, Estado: Cuautla Mor<br>Nombre: Iglesia<br>Teléfono: +52 735 398 0773<br>Información Adicional: Sufragio Efectivo Col. Emiliano Zapata<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Sufragio Efect</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Cuautla Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Iglesia</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 735 398 0773</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Sufragio Efectivo Col. Emiliano Zapata</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.950925,18.8207047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Galeana Cuautla<br>Ciudad, Estado: Zacatepec Mor<br>Nombre: Jardín de Niños N. Mendoza<br>Teléfono: <br>Información Adicional: Carretera Galeana - Cuautla esquina Xicoténcatl<br>URL: https://twitter.com/GobiernoMorelos/status/910494459430805506]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Galeana Cuautla</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Zacatepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Jardín de Niños N. Mendoza</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Carretera Galeana - Cuautla esquina Xicoténcatl</value>
+				</Data>
+				<Data name="URL">
+					<value>https://twitter.com/GobiernoMorelos/status/910494459430805506</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19336,18.65312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Independencia<br>Ciudad, Estado: Axochiapan Mor<br>Nombre: Salon Rodriguez<br>Teléfono: <br>Información Adicional: Av. Indepencencia casi esq. Libertad. Frente a Gasoline<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Independencia</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Axochiapan Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Salon Rodriguez</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av. Indepencencia casi esq. Libertad. Frente a Gasoline</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.75166,18.4988567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Vic Guerrero<br>Ciudad, Estado: Zacatepec Mor<br>Nombre: Ayudantia de Tetelpa<br>Teléfono: <br>Información Adicional: Calle Vicente Guerrero<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Vic Guerrero</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Zacatepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Ayudantia de Tetelpa</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Calle Vicente Guerrero</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20293000000001,18.66482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: 10 de Abril<br>Ciudad, Estado: Jojutla Mor<br>Nombre: Jardín de NIños Fermina Rivera Vda de Rivera<br>Teléfono: <br>Información Adicional: 10 de Abril esquina Francisco I. Madero<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>10 de Abril</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Jojutla Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Jardín de NIños Fermina Rivera Vda de Rivera</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>10 de Abril esquina Francisco I. Madero</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1750819,18.6142049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Benito Juárez<br>Ciudad, Estado: Jojutla Mor<br>Nombre: Unidad Deportiva Perseverancia<br>Teléfono: <br>Información Adicional: Benito Juárez esq. Lázaro Cárdenas<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Benito Juárez</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Jojutla Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Unidad Deportiva Perseverancia</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Benito Juárez esq. Lázaro Cárdenas</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1831866,18.6237498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Aldama<br>Ciudad, Estado: Tetecala Mor<br>Nombre: Presidencia municipal de tetecala<br>Teléfono: +52 751 396 0352<br>Información Adicional: Aldama esquina Matamoros<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Aldama</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Tetecala Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Presidencia municipal de tetecala</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 751 396 0352</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Aldama esquina Matamoros</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.39856759999999,18.7290321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Alpuyeca Jojutl<br>Ciudad, Estado: Galeana Morelos<br>Nombre: Hotel Montecarlo<br>Teléfono: 7343430648<br>Información Adicional: Carretera Alpuyeca - Jojutla km. 13.5<br>URL: https://www.facebook.com/MonteCarloHotel/]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Alpuyeca Jojutl</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Galeana Morelos</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Hotel Montecarlo</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>7343430648</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Carretera Alpuyeca - Jojutla km. 13.5</value>
+				</Data>
+				<Data name="URL">
+					<value>https://www.facebook.com/MonteCarloHotel/</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20713600000001,18.6292019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Av Tec Industri<br>Ciudad, Estado: Jojutla Mor<br>Nombre: Unidad Deportiva Niños Héroes<br>Teléfono: <br>Información Adicional: Av Instituto Técnico Industrial y Comercial, 62900<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Av Tec Industri</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Jojutla Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Unidad Deportiva Niños Héroes</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Av Instituto Técnico Industrial y Comercial, 62900</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1731206,18.6177021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Cuer. - Cuautla<br>Ciudad, Estado: Yautepec Mor<br>Nombre: Unidad Deportiva Atlihuayán<br>Teléfono: <br>Información Adicional: MEX-138 Cuernavaca - Cuautla casi esq Revolución, 62730<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Cuer. - Cuautla</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Yautepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Unidad Deportiva Atlihuayán</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>MEX-138 Cuernavaca - Cuautla casi esq Revolución, 62730</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.08142399999998,18.86947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: Justo Sierra<br>Ciudad, Estado: Tlayacapan Mor<br>Nombre: Plaza Cívica<br>Teléfono: <br>Información Adicional: Justo Sierra, 62540<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>Justo Sierra</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Tlayacapan Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Plaza Cívica</value>
+				</Data>
+				<Data name="Teléfono">
+				</Data>
+				<Data name="Información Adicional">
+					<value>Justo Sierra, 62540</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.98307,18.957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: UPEMOR<br>Ciudad, Estado: Jiutepec Mor<br>Nombre: Universidad Politecnica del Estado de Morelos<br>Teléfono: +52 777 229 3500<br>Información Adicional: Blvd. Paseo Cuauhnáhuac 566, 62550<br>URL: www.upemor.edu.mx]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>UPEMOR</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Jiutepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>Universidad Politecnica del Estado de Morelos</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 777 229 3500</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Blvd. Paseo Cuauhnáhuac 566, 62550</value>
+				</Data>
+				<Data name="URL">
+					<value>www.upemor.edu.mx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.14046070000002,18.8897582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albergue Morelos</name>
+			<description><![CDATA[Dirección: 20 de Noviembre<br>Ciudad, Estado: Jiutepec Mor<br>Nombre: William Shakespeare College<br>Teléfono: +52 777 245 0856<br>Información Adicional: Poeta Isaías Alanis 39, Centro, 62550<br>URL:]]></description>
+			<styleUrl>#icon-1603-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Dirección">
+					<value>20 de Noviembre</value>
+				</Data>
+				<Data name="Ciudad, Estado">
+					<value>Jiutepec Mor</value>
+				</Data>
+				<Data name="Nombre">
+					<value>William Shakespeare College</value>
+				</Data>
+				<Data name="Teléfono">
+					<value>+52 777 245 0856</value>
+				</Data>
+				<Data name="Información Adicional">
+					<value>Poeta Isaías Alanis 39, Centro, 62550</value>
+				</Data>
+				<Data name="URL">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.17744499999999,18.8757658,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

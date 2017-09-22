@@ -1,0 +1,221 @@
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Field 'Timestamp' already exists. Renaming it as 'Timestamp2'
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Field 'Timestamp' already exists. Renaming it as 'Timestamp2'
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Field 'Timestamp' already exists. Renaming it as 'Timestamp2'
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+Warning 1: Attempt to create field of type DateTime, but this is not supported
+for .csv files.  Just treating as a plain string.
+ERROR 1: Attempt to create layer Centros de Acopio, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio.csv already exists.
+ERROR 1: Attempt to create layer Albergues Oficiales, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Oficiales.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Albergues Reportados, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Albergues Reportados.csv already exists.
+ERROR 1: Attempt to create layer Base Datos Waze, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Base Datos Waze.csv already exists.
+ERROR 1: Attempt to create layer Daños Colaborativos, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Daños Colaborativos.csv already exists.
+ERROR 1: Attempt to create layer Centros de Acopio colaborativo, but /opt/django/mg2/mg2/media/files/userdata2/unknown-users/e12e3920-f5c1-41a1-b941-d4532fac1e1d/2017-09-22_01-27-49/out/Mapeo-Colaborativo-19s-DATOS-NECESITAN-VERIFICAR-/Centros de Acopio colaborativo.csv already exists.

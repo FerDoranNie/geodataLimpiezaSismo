@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Centros de Acopio</name>
+	<StyleMap id="icon-1899-0288D1-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-nodesc-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Centros de Acopio</name>
+		<Placemark>
+			<name>Bosque de Chapultepec, Puerta de los Leones</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.17571100000001,19.4231933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Locatel</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.1499681,19.3514956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zócalo</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.13320489999998,19.4326018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abraham González 67</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.153893,19.4296448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenida San Fernando 160</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.16714109999998,19.2920558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Procuraduría Ambiental y del Ordenamiento Territorial</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.16447250000002,19.4117922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEDESO</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.1400208,19.4224269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casa Refugio Citlaltepetl</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.17165660000001,19.4092044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Metro La Raza - STC Metro</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.136572,19.469467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sistema M1</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.15461090000001,19.430264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campo Militar Marte</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.19733489999999,19.4246091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIF Nacional</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.158179,19.365916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Almacén General del DIF</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.1683694,19.3556707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casa Hogar para Niñas Graciela Zubirán</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-99.18616900000001,19.3074184,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
