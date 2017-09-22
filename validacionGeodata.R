@@ -23,6 +23,9 @@ options(geonamesUsername="ferbase10")
 
 # Funciones ---------------------------------------------------------------
 Localidad <- function(longitud, latitud){
+  if(is.na(longitud) | is.na(latitud)){
+    return(NULL)
+  }
   x <- revgeocode(c(longitud, latitud), output = "more")
   direccion <- as.character(x$address)
   calle <- as.character(x$route)
