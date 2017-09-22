@@ -140,6 +140,30 @@ lapply(archivos, function(file){
 })
 
 
+manos <- read.csv("manos_Obra/formResponses.csv", header = T)
+
+manos <- manos %>% 
+  data.table %>% 
+  .[, coordenadas := paste(Longitude, Latitude, sep=", ")] 
+
+
+manosLocalidad <- mapply("Localidad", longitud= manos$Longitude, 
+                            latitud = manos$Latitude,
+                            SIMPLIFY = F)                       
+
+
+manosLocalidad2 <- do.call("rbind", manosLocalidad) 
+
+manosLocalidad2 <- manosLocalidad2 %>% 
+  data.table %>% 
+  .[, coordenadas := paste(long_Verificado, lat_Verificado, sep=", ")] 
+
+
+manosGeneral <- merge(data.frame(manos), 
+                         data.frame(manosLocalidad2), by="coordenadas")
+
+manosGeneral %>%  
+  write.csv("manos_Obra/formResponses_Verificado.csv", row.names=F)
 
 
 
