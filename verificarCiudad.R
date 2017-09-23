@@ -12,6 +12,7 @@ c("data.table", "ggmap", "dplyr", "tidyr",
 
 
 setwd("~/ReposDesarollo/csvGeoData/")
+setwd("~/ReposDesarrollo/geodataLimpiezaSismo/")
 
 geocodeQueryCheck()
 
@@ -77,7 +78,7 @@ lapply(archivos, function(X){
   X %>%
    write.csv(file, row.names=F)
 })
-
+  
 
 
 

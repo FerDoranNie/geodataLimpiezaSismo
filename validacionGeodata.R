@@ -16,6 +16,7 @@ c("data.table", "ggmap", "dplyr", "tidyr",
 setwd("~/ReposDesarrollo/geodataLimpiezaSismo/")
 
 geocodeQueryCheck()
+source("funcionesAmpliaQueries.R")
 
 # Agregar el nombre de usuario de geonames
 options(geonamesUsername="ferbase10")
@@ -34,7 +35,7 @@ Localidad <- function(longitud, latitud){
   if(is.null(x)){
     return(NULL)
   }
-  x <- revgeocode(c(longitud, latitud), output = "more", source="dsk")
+  x <- revgeocode(c(longitud, latitud), output = "more")
   direccion <- as.character(x$address)
   calle <- as.character(x$route)
   numero <- as.character(x$street_number)
@@ -220,7 +221,7 @@ crisismap <- list.files("crisisMap/",
                       all.files = T, full.names = T, pattern = "*.csv",
                       recursive = T)
 
-crisismap <- crisismap[c(5,6)]
+crisismap <- crisismap[c(5)]
 
 lapply(crisismap, function(file){
   x <- read.csv(file, stringsAsFactors = F)
@@ -237,10 +238,14 @@ lapply(crisismap, function(file){
     data.table %>%
     .[, coordenadas := paste(longitud, latitud, sep=", ")]
 
-  xLocalidad <- mapply("Localidad", longitud= x$longitud,
+  # xLocalidad <- mapply("Localidad", longitud= x$longitud,
+  #                      latitud = x$latitud,
+  #                      SIMPLIFY = F)
+  xLocalidad <- mapply("getGeoDataReversa", longitud= x$longitud,
                        latitud = x$latitud,
                        SIMPLIFY = F)
-  xLocalidad2 <- do.call("rbind", xLocalidad)
+  xLocalidad2 <- do.call("rbind", xLocalidad) %>% 
+    data.frame()
 
   xLocalidad2 <- xLocalidad2 %>%
     data.table %>%
