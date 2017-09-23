@@ -34,7 +34,7 @@ Localidad <- function(longitud, latitud){
   if(is.null(x)){
     return(NULL)
   }
-  x <- revgeocode(c(longitud, latitud), output = "more")
+  x <- revgeocode(c(longitud, latitud), output = "more", source="dsk")
   direccion <- as.character(x$address)
   calle <- as.character(x$route)
   numero <- as.character(x$street_number)
@@ -220,16 +220,16 @@ crisismap <- list.files("crisisMap/",
                       all.files = T, full.names = T, pattern = "*.csv",
                       recursive = T)
 
+crisismap <- crisismap[c(5,6)]
 
 lapply(crisismap, function(file){
   x <- read.csv(file, stringsAsFactors = F)
   if(dim(x)[1]==0){
     return(NULL)
   }
-  x <- x[1:5,]
-  # print(dim(x))
-  # return(dim(x)[1])
+
   # archivo <- (gsub(".*//","", file)
+
   archivo <- gsub(".csv","", file, fixed=T)
   archivo <- paste0(archivo,  "_Verificado","", ".csv")
   x <- x %>%
@@ -248,9 +248,9 @@ lapply(crisismap, function(file){
 
 
   xGeneral <- merge(data.frame(x),
-                    data.frame(xLocalidad2), by="coordenadas") %>% 
+                    data.frame(xLocalidad2), by="coordenadas") %>%
     write.csv(archivo, row.names=F)
-  # print(file)
+  print(file)
 }) 
 
 
