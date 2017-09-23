@@ -50,7 +50,7 @@ codigoPostal <- function(postal){
 archivos <- list.files("verificadosTotal",
                        all.files = T, full.names = T, pattern = "*.csv",
                        recursive = T)
-
+#archivos <- archivos[-grep("Chiapas", archivos)]
 
 
 lapply(archivos, function(X){
@@ -61,19 +61,20 @@ lapply(archivos, function(X){
                 stringsAsFactors = F)
   
   X1 <- X %>%  
-    filter(ciudad_municipio_Verificado!= "Ciudad de México")
+    filter(ciudad_municipio_Verificado!= "Ciudad de México") %>% 
+    data.frame
   
   X2 <- X %>%  
-    filter(ciudad_municipio_Verificado == "Ciudad de México")
+    filter(ciudad_municipio_Verificado == "Ciudad de México") 
   
   X2 <- merge(X2, codigos2, by.x="cp_Verificado", by.y="cp") %>% 
     data.table %>% 
     .[, ciudad_municipio_Verificado := ciudad_municipio ] %>% 
-    select(one_of(names(X2)))
-  
+    select(one_of(names(X2))) %>% 
+    data.frame
   X <- rbind(X1, X2)
   X <- data.frame(X)
-  X %>% 
+  X %>%
    write.csv(file, row.names=F)
 })
 

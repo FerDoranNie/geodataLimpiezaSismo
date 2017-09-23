@@ -12,7 +12,8 @@ c("data.table", "ggmap", "dplyr", "tidyr",
   sapply(require, character.only=T)
 
 
-setwd("~/ReposDesarollo/csvGeoData/")
+#setwd("~/ReposDesarollo/csvGeoData/")
+setwd("~/ReposDesarrollo/geodataLimpiezaSismo/")
 
 geocodeQueryCheck()
 
@@ -184,9 +185,12 @@ chiapas <- list.files("chiapas/areasCriticas/Ubicacion-de-areas-criticas-CHIAPAS
 
 lapply(chiapas, function(file){
   x <- read.csv(file, stringsAsFactors = F)
+  if(dim(x)[1]==0){
+    return(NULL)
+  }
   # archivo <- (gsub(".*//","", file)
   archivo <- gsub(".csv","", file, fixed=T)
-  archivo <- paste0(archivo,  "_Verificado", ".csv")
+  archivo <- paste0(archivo,  "_Verificado","_Chiapas", ".csv")
   x <- x %>%
     filter(X!="" | !is.na(X)) %>%
     data.table %>%
@@ -209,6 +213,82 @@ lapply(chiapas, function(file){
   print(file)
 })
 
+
+
+
+crisismap <- list.files("crisisMap/",
+                      all.files = T, full.names = T, pattern = "*.csv",
+                      recursive = T)
+
+
+lapply(crisismap, function(file){
+  x <- read.csv(file, stringsAsFactors = F)
+  if(dim(x)[1]==0){
+    return(NULL)
+  }
+  x <- x[1:5,]
+  # print(dim(x))
+  # return(dim(x)[1])
+  # archivo <- (gsub(".*//","", file)
+  archivo <- gsub(".csv","", file, fixed=T)
+  archivo <- paste0(archivo,  "_Verificado","", ".csv")
+  x <- x %>%
+    filter(latitud!="" | !is.na(latitud)) %>%
+    data.table %>%
+    .[, coordenadas := paste(longitud, latitud, sep=", ")]
+
+  xLocalidad <- mapply("Localidad", longitud= x$longitud,
+                       latitud = x$latitud,
+                       SIMPLIFY = F)
+  xLocalidad2 <- do.call("rbind", xLocalidad)
+
+  xLocalidad2 <- xLocalidad2 %>%
+    data.table %>%
+    .[, coordenadas := paste(long_Verificado, lat_Verificado, sep=", ")]
+
+
+  xGeneral <- merge(data.frame(x),
+                    data.frame(xLocalidad2), by="coordenadas") %>% 
+    write.csv(archivo, row.names=F)
+  # print(file)
+}) 
+
+
+comunidadesChiapas <- list.files("chiapas/comunidades_afectadas/Comunidades_en_Chiapas_afectadas/",
+                        all.files = T, full.names = T, pattern = "*.csv",
+                        recursive = T)
+
+
+lapply(comunidadesChiapas, function(file){
+  x <- read.csv(file, stringsAsFactors = F)
+  if(dim(x)[1]==0){
+    return(NULL)
+  }
+  # archivo <- (gsub(".*//","", file)
+  archivo <- gsub(".csv","", file, fixed=T)
+  archivo <- paste0(archivo,  "_Verificado","_Chiapas", "_Comunidad", 
+                    ".csv")
+  x <- x %>%
+    filter(X!="" | !is.na(X)) %>%
+    data.table %>%
+    .[, coordenadas := paste(X, Y, sep=", ")]
+  
+  xLocalidad <- mapply("Localidad", longitud= x$X,
+                       latitud = x$Y,
+                       SIMPLIFY = F)
+  xLocalidad2 <- do.call("rbind", xLocalidad)
+  
+  xLocalidad2 <- xLocalidad2 %>%
+    data.table %>%
+    .[, coordenadas := paste(long_Verificado, lat_Verificado, sep=", ")]
+  
+  
+  xGeneral <- merge(data.frame(x),
+                    data.frame(xLocalidad2), by="coordenadas")
+  xGeneral %>%
+    write.csv(archivo, row.names=F)
+  print(file)
+})
 
 
 
