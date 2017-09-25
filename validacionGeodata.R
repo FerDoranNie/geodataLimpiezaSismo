@@ -12,8 +12,8 @@ c("data.table", "ggmap", "dplyr", "tidyr",
   sapply(require, character.only=T)
 
 
-#setwd("~/ReposDesarollo/csvGeoData/")
-setwd("~/ReposDesarrollo/geodataLimpiezaSismo/")
+setwd("~/ReposDesarollo/csvGeoData/")
+#setwd("~/ReposDesarrollo/geodataLimpiezaSismo/")
 
 geocodeQueryCheck()
 source("funcionesAmpliaQueries.R")
@@ -294,6 +294,33 @@ lapply(comunidadesChiapas, function(file){
     write.csv(archivo, row.names=F)
   print(file)
 })
+
+
+datos <- read_excel("dobleGeo/REAPERTURA BÁSICA PÚBLICAS CDMX.xlsx", sheet = 1) %>% 
+  data.frame 
+names(datos ) <- iconv(names(datos), to = "ASCII//TRANSLIT")
+
+dataGeo1 <- lapply(datos$DIRECCION, function(d){
+ Y <- geocode(d, output = "more")
+ Y <- Y %>% 
+   mutate(DIRECCION = d)
+ print(d)
+ return(Y)
+})
+
+dataGeo2 <- rbindlist(dataGeo1, fill=T)
+datos1 <- datos %>% 
+  left_join(dataGeo2, by="DIRECCION") %>%  
+  filter(!is.na(lon)) %>% 
+  select(-north, -south, -east, -west, -loctype, -type, neighborhood)
+
+
+datos$DIRECCION[datos$DIRECCION  %!in% datos1$DIRECCION]
+
+geocode("ALLENDE Y SAN JOAQUÍN COL. ARGENTINA ANTIGUA")
+
+
+
 
 
 
